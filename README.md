@@ -11,6 +11,6 @@ Ipak, pošto sam doktor, program se kompajlira sa `make`, a linkuje i pokreće s
 
 * Da li će raditi na drugim računarima?
 * Da li će raditi na drugim distribucijama Linux-a?
-* Da li će raditi na linuxu?
+* Da li će raditi na Windows-u?
 
 > Pojma nemam, najverovatnije neće, biće rešeno jednoga dana u dalekoj budućnosti. Čiča će ga ručno kompajlirati za sve žive operativne sisteme kada mu dođe vreme.
