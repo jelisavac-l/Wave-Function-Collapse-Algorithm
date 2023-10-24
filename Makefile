@@ -16,3 +16,4 @@ run: all expnrun
 clear:
 	@echo "*** I tako.... Ode... ***"
 	rm sfml-app
+	rm *.o
