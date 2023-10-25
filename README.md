@@ -7,7 +7,15 @@ Ručno kompajliranje, ručno linkovanje, sve. Biblioteke se nalaze u direktoriju
 
 `sudo apt install ... <kako se vec zove sfml za linux>`
 
-Ipak, pošto sam doktor, program se kompajlira sa `make`, a linkuje i pokreće sa `make run`. _Naravno, make mora da bude instaliran..._
+tako da bez toga ne šljaka.
+
+Program se kompajlira sa:
+
+`make`
+
+A komajlira + pokreće sa
+
+`make all`
 
 * Da li će raditi na drugim računarima?
 * Da li će raditi na drugim distribucijama Linux-a?
