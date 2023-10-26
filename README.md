@@ -3,7 +3,7 @@ Svaka čast onome ko ovo na srpski prevede. Moj pokušaj pisanja ovog algoritma 
 razvojno okruženje (Visual Studio ne dao Bog), CMake, i Windows.
 
 ### SVE RUČNO BAJO
-Ručno kompajliranje, ručno linkovanje, sve. Biblioteke se nalaze u direktorijumu u kojem se nalazi sam projekat, tako da ne znam kako bih pokrenuo program bez
+Ručno kompajliranje, ručno linkovanje, sve.
 
 `sudo apt install ... <kako se vec zove sfml za linux>`
 
@@ -11,9 +11,11 @@ tako da bez toga ne šljaka.
 
 Program se kompajlira sa:
 
-`make`
+`make && make tile.o`
 
-A komajlira + pokreće sa
+_Još sam početnik što se Makefile-a tiče, biće bolje..._
+
+A linkuje + pokreće sa
 
 `make all`
 

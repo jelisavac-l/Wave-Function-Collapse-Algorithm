@@ -16,7 +16,7 @@ tile.o: tile.cpp
 	# g++ -c tile.cpp -I $(PTH)/include
 	g++ -c tile.cpp
 
-all: main.o
+all:
 #	g++ main.o -o sfml-app -L $(PTH)/lib -lsfml-graphics -lsfml-window -lsfml-system
 	g++ main.o tile.o -o sfml-app -lsfml-graphics -lsfml-window -lsfml-system && ./sfml-app
 #exp:
