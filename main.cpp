@@ -9,7 +9,7 @@ int main()
     sf::RenderWindow window(sf::VideoMode(1600, 900), "Wave Function Collapse Algorithm, L. Jelisavac");
 
 
-    Tile *map[580]; // 579 je broj, ostali su samo da ne bude segfault :(
+    Tile *map[580]; // 576 je broj, ostali su samo da ne bude segfault :(
     // Generisanje mape
     float x = 0.0f, y = 0.0f, colMultiplierR = 33.0f, colMultiplierG = 0.0f, colMultiplierB = 33.0f;
     int ndx = 0;

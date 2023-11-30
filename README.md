@@ -13,7 +13,7 @@ Program se kompajlira sa:
 
 `make && make tile.o`
 
-_Još sam početnik što se Makefile-a tiče, biće bolje..._
+_Još sam početnik što se Makefile-a tiče, biće bolje... Verovatno..._
 
 A linkuje + pokreće sa
 
